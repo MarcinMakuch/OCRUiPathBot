@@ -146,9 +146,9 @@
                             </ActivityFunc>
                           </ui:GetOCRText.OCREngine>
                           <ui:GetOCRText.Target>
-                            <ui:Target Element="{x:Null}" Id="9fcf4f2d-5f85-4dfe-97d1-c40d5ffd9245" InformativeScreenshot="bc2b03899d5967b5250122879abe4748" Selector="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='receipt-petrol-*' /&gt;&lt;ctrl name='receipt-petrol-*' role='document' /&gt;&lt;ctrl omit:name='Dokument PDF zawierający 1 stronę' role='document' /&gt;&lt;ctrl omit:name='Strona 1' role='pane' /&gt;">
+                            <ui:Target Element="{x:Null}" Id="9fcf4f2d-5f85-4dfe-97d1-c40d5ffd9245" InformativeScreenshot="13e5e155e46caa92092f5a1b745fb31f" Selector="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='receipt-petrol-*' /&gt;&lt;ctrl name='receipt-petrol-*' role='pane' /&gt;&lt;ctrl idx='87' role='pane' /&gt;">
                               <ui:Target.ClippingRegion>
-                                <ui:Region Rectangle="157, 407, 110, 20" />
+                                <ui:Region Rectangle="789, 222, 291, 261" />
                               </ui:Target.ClippingRegion>
                               <ui:Target.TimeoutMS>
                                 <InArgument x:TypeArguments="x:Int32" />
